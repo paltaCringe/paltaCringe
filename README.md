@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m палтаК
-- 👀 I’m interested in programming software and games
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on software projects 
+- 👀 Interested in programming software and games
+- 🌱 Currently learning C#
+- 💞️ Looking to collaborate on software projects 
 - 📫 ig: @paltareborn.cw
 - 🤝🏽 Pronouns: we/our
 - ⚡ Fun fact: I'm a bassist
